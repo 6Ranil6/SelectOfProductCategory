@@ -5,3 +5,5 @@ te.txt
 test_df_llm_generation_1.csv
 test_df_to_upload.csv
 val_df_llm_generation.csv
+answer_cache.json
+answer_thinking_model.json
